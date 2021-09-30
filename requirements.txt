@@ -1,0 +1,9 @@
+fire==0.4.0
+requests==2.25.1
+pendulum==2.1.2
+python-whois==0.7.3
+pyOpenSSL==20.0.1
+
+
+
+
